@@ -152,6 +152,9 @@ Cédric : You cannot report other_landings there, it's fine if you put two lines
   
 
 ## Annex 2 
+  6 modified series
+  4 new dataseries
+  
 
 ## Annex 3 
 
